@@ -14,7 +14,7 @@ const loadVideos = () => {
 
 const displayVideos = () => {
   if(!youtubeVideoIds.length) {
-    notFound.innerHTML = "<strong>No Videos Found</strong>. <br />Go ahead and add some."
+    notFound.innerHTML = '<p class="not-found"><strong>No Videos Found</strong>. <br />Go ahead and add some.</p>'
   };
   const videoHtmlString = youtubeVideoIds
     .map(
