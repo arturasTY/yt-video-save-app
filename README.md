@@ -9,6 +9,7 @@ An App to save useful YouTube videos and comeback to them later. Using LocalStor
 ## ⚙️ How to use this repo:
 ```shell
     $ cd your-directory
-    $ git clone https://github.com/arturasTY/country-app.git
+    $ git clone https://github.com/arturasTY/yt-video-save-app.git
+
+    Set up a shortcut to the app on your Desktop or Bookmark it in your browser
 ```
-Set up a shortcut to the app on your Desktop or Bookmark it in your browser

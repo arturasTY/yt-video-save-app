@@ -199,6 +199,15 @@ img {
   font-weight: bold;
 }
 
+.not-found {
+  background: white;
+  border-radius: 8px;
+  padding: 20px;
+  max-width: 450px;
+  margin: auto;
+  box-shadow: 2px 0px 10px 5px rgba(0,70,67, 0.15);
+}
+
 .videos__item {
   position: relative;
   cursor: pointer;
