@@ -1,6 +1,6 @@
 # Youtube Video Saver app
 
-Built with [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+Built with [![My Skills](https://skillicons.dev/icons?i=html,css,js)]()
 
 An App to save useful YouTube videos and comeback to them later. Using LocalStorage to store the videos (will move to MongoDB at a later date). To generate thumbnails, I'm using [ytimg](https://i.ytimg.com/vi/VIDEO_ID/) service, that takes in YouTube video id and returns an image in various sizes. Thanks to [HappyHues](https://www.happyhues.co/) for the colour scheme inspiration.
 
